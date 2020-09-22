@@ -1,13 +1,19 @@
 import React, { Component } from 'react';
+import { Navbar, Nav, Container } from 'react-bootstrap';
 
 class Header extends Component {
     state = {  }
     render() { 
         return (
-            <div>
-                <p>This is the top header with more urls</p>
-                <p>More information comes here</p>
-            </div>
+            <Container>
+                <Navbar bg = "light" variant = "light">
+                <Nav className = "mr-auto">
+                    <Nav.Link href="#home">home</Nav.Link>
+                    <Nav.Link href="#home">work</Nav.Link>
+                    <Nav.Link href="#home">about me</Nav.Link>
+                </Nav>
+                </Navbar>
+            </Container>
         ) 
     }
 }

@@ -1,14 +1,15 @@
 import React from 'react';
-import './App.css';
+
+import 'bootstrap/dist/css/bootstrap.min.css';
 import Homepage from './component/homepage';
+import { Container } from 'react-bootstrap';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <Homepage />
-      </header>
-    </div>
+    <Container bg = "dark">
+      <Homepage />
+    </Container>
+   
   );
 }
 
