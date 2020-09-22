@@ -5,14 +5,11 @@ class Header extends Component {
     state = {  }
     render() { 
         return (
-            <Navbar bg = "#fff" variant = "light" fixed = "top">
+            <Navbar className = "navbar navbar-expand-lg" fixed = "top" >
                 <Nav className = "mr-auto">
-                    <Nav.Link href = "#home">
-                        home
-                    </Nav.Link>
-                    <Nav.Link href = "#work">
-                        work
-                    </Nav.Link>
+                    <Nav.Link href = "#home">home</Nav.Link>
+                    <Nav.Link href = "#work">work</Nav.Link>
+                    <Nav.Link href = "#work">about</Nav.Link>
                 </Nav>
                 <Nav>
                     <Nav.Link href="https://www.linkedin.com/in/samitbarai">linkedin</Nav.Link>

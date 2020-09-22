@@ -5,7 +5,7 @@ import Homepage from './component/homepage';
 
 function App() {
   return (
-    <div>
+    <div className = "bg bg-light" >
       <Homepage />
     </div>
    
