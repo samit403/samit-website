@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cf19001b482b35adbf39554481d289c7",
+    "revision": "97abd6a5788ebedcc747046391479308",
     "url": "/samit-website/index.html"
   },
   {
-    "revision": "559fba6622cbd907d196",
+    "revision": "cefd1efc2a9507b12050",
     "url": "/samit-website/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/samit-website/static/js/2.7f9cf6bb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "559fba6622cbd907d196",
-    "url": "/samit-website/static/js/main.3fd457c6.chunk.js"
+    "revision": "cefd1efc2a9507b12050",
+    "url": "/samit-website/static/js/main.4108a7c9.chunk.js"
   },
   {
     "revision": "700ac72ce58b630e3ffd",

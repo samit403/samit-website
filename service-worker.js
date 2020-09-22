@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/samit-website/precache-manifest.5c66cd35f8ba71e11206a9d621cb362a.js"
+  "/samit-website/precache-manifest.8d3ecf57d115ba2db61c320915035d60.js"
 );
 
 self.addEventListener('message', (event) => {
