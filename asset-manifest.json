@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.js": "/samit-website/static/js/main.6d094846.chunk.js",
-    "main.js.map": "/samit-website/static/js/main.6d094846.chunk.js.map",
+    "main.js": "/samit-website/static/js/main.917611b7.chunk.js",
+    "main.js.map": "/samit-website/static/js/main.917611b7.chunk.js.map",
     "runtime-main.js": "/samit-website/static/js/runtime-main.8635d8c1.js",
     "runtime-main.js.map": "/samit-website/static/js/runtime-main.8635d8c1.js.map",
     "static/css/2.d9ad5f5c.chunk.css": "/samit-website/static/css/2.d9ad5f5c.chunk.css",
     "static/js/2.a5f2ab04.chunk.js": "/samit-website/static/js/2.a5f2ab04.chunk.js",
     "static/js/2.a5f2ab04.chunk.js.map": "/samit-website/static/js/2.a5f2ab04.chunk.js.map",
     "index.html": "/samit-website/index.html",
-    "precache-manifest.cb860c3533a8b8ac75616ae78a12a01c.js": "/samit-website/precache-manifest.cb860c3533a8b8ac75616ae78a12a01c.js",
+    "precache-manifest.83a253c8cd10d9d5e123d49b2a2af78c.js": "/samit-website/precache-manifest.83a253c8cd10d9d5e123d49b2a2af78c.js",
     "service-worker.js": "/samit-website/service-worker.js",
     "static/css/2.d9ad5f5c.chunk.css.map": "/samit-website/static/css/2.d9ad5f5c.chunk.css.map",
     "static/js/2.a5f2ab04.chunk.js.LICENSE.txt": "/samit-website/static/js/2.a5f2ab04.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.8635d8c1.js",
     "static/css/2.d9ad5f5c.chunk.css",
     "static/js/2.a5f2ab04.chunk.js",
-    "static/js/main.6d094846.chunk.js"
+    "static/js/main.917611b7.chunk.js"
   ]
 }
