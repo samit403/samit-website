@@ -1,10 +1,14 @@
 import React, { Component } from 'react';
-import '../App.css';
 
 class Header extends Component {
     state = {  }
     render() { 
-        return <p>This is the top header with urls</p>
+        return (
+            <div>
+                <p>This is the top header with more urls</p>
+                <p>More information comes here</p>
+            </div>
+        ) 
     }
 }
  
