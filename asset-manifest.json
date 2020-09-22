@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/samit-website/static/css/main.5f361e03.chunk.css",
-    "main.js": "/samit-website/static/js/main.4108a7c9.chunk.js",
-    "main.js.map": "/samit-website/static/js/main.4108a7c9.chunk.js.map",
+    "main.js": "/samit-website/static/js/main.a6f04376.chunk.js",
+    "main.js.map": "/samit-website/static/js/main.a6f04376.chunk.js.map",
     "runtime-main.js": "/samit-website/static/js/runtime-main.8635d8c1.js",
     "runtime-main.js.map": "/samit-website/static/js/runtime-main.8635d8c1.js.map",
-    "static/js/2.7f9cf6bb.chunk.js": "/samit-website/static/js/2.7f9cf6bb.chunk.js",
-    "static/js/2.7f9cf6bb.chunk.js.map": "/samit-website/static/js/2.7f9cf6bb.chunk.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/samit-website/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.9d7c59f8.chunk.js": "/samit-website/static/js/2.9d7c59f8.chunk.js",
+    "static/js/2.9d7c59f8.chunk.js.map": "/samit-website/static/js/2.9d7c59f8.chunk.js.map",
     "index.html": "/samit-website/index.html",
-    "precache-manifest.8d3ecf57d115ba2db61c320915035d60.js": "/samit-website/precache-manifest.8d3ecf57d115ba2db61c320915035d60.js",
+    "precache-manifest.3dbe3f3a81075089dd7cd748fe584a05.js": "/samit-website/precache-manifest.3dbe3f3a81075089dd7cd748fe584a05.js",
     "service-worker.js": "/samit-website/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/samit-website/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.7f9cf6bb.chunk.js.LICENSE.txt": "/samit-website/static/js/2.7f9cf6bb.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/samit-website/static/media/logo.5d5d9eef.svg"
+    "static/css/2.d9ad5f5c.chunk.css.map": "/samit-website/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/js/2.9d7c59f8.chunk.js.LICENSE.txt": "/samit-website/static/js/2.9d7c59f8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.8635d8c1.js",
-    "static/js/2.7f9cf6bb.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.4108a7c9.chunk.js"
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.9d7c59f8.chunk.js",
+    "static/js/main.a6f04376.chunk.js"
   ]
 }
