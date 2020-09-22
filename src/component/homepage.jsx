@@ -1,16 +1,17 @@
 import React, { Component } from 'react';
 import Header from './header';
 import Body from './body';
-import Footer from './footer';
+import { Container } from 'react-bootstrap';
+// import Footer from './footer';
 
 export default class Homepage extends Component {
     render() {
       return (
-        <div>
+        <Container>
             <Header />
             <Body />
-            <Footer />
-        </div>
+            {/* <Footer /> */}
+        </Container>
       )
     }
   }
