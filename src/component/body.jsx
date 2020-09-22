@@ -32,7 +32,8 @@ class Body extends Component {
                 </p>
                 <br/>
                 <br/>
-                <Button className = "btn btn-lg btn-dark">View Portfolio</Button>
+                <Button className = "btn btn-lg btn-dark mr-3">View Portfolio</Button>
+                <Button className = "btn btn-lg btn-outline">Resume</Button>
                 <br/>
                 <br/>
                 <br/>
