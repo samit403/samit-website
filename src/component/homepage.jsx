@@ -7,7 +7,7 @@ import { Container } from 'react-bootstrap';
 export default class Homepage extends Component {
     render() {
       return (
-        <Container>
+        <Container className = "container">
             <Header />
             <Body />
             {/* <Footer /> */}
